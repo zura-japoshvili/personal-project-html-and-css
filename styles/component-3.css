@@ -1,9 +1,10 @@
 .component-3{
     position: relative;
 }
+/* მე არ ვიცი რაუნდა და ალბათ არც თვითონ იცის. */
 .component-3 > p{
     font-family: "Muli";
-    font-size: 17px;
+    font-size: 16px;
     color: #666666;
     line-height: 30px;
     margin-bottom: 48px;
@@ -67,6 +68,7 @@
 .comments-count img{
     margin: 11px 6px 9px 15px;
 }
+/* მე არ ვიცი რაუნდა და ალბათ არც თვითონ იცის. */
 .post-title{
     font-family: "GlacialIndifference-Bold";
     font-size: 30px;
@@ -74,4 +76,5 @@
     line-height: 35px;
     width: 568px;
     margin-bottom: 30px;
+    letter-spacing: 0;
 }
