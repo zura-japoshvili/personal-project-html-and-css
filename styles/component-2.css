@@ -1,0 +1,63 @@
+.component-2{
+    flex-direction: column;
+}
+.content{
+    margin-bottom: 18px;
+}
+.header{
+    justify-content: space-between;
+    font-family: "Muli-Bold";
+    font-size: 18px;
+}
+.navigation ul{
+    margin-right: 125px;
+    margin-bottom: 10px;
+}
+.navigation ul li{
+    color: #0A0909;
+}
+.navigation ul li:not(:last-child){
+    margin-right: 41px;
+}
+.navigation ul li:hover{
+    color: #EE3364;
+}
+.header div img:nth-child(1){
+    margin-right: 20px;
+}
+.header div{
+    margin-top: 8px;
+}
+.about-page{
+    flex-direction: column;
+    background-color: black;
+    height: 543px;
+    width: 100%;
+}
+.about-page h2{
+    margin-top: 200px;
+    font-size: 60px;
+    font-family: "GlacialIndifference-Bold";
+    color: #FFFFFF;
+    margin-left: 44px;
+    margin-bottom: 27px;
+}
+.p-wrapper{
+    margin-left: 52px;
+}
+.p-wrapper p{
+    font-family: "Muli";
+    font-size: 18px;
+}
+.p-wrapper p:not(:last-child){
+    margin-right: 25px;
+    color: #8799A3;
+}
+.p-wrapper p:not(:last-child)::after{
+    content: url("../images/icons/arrow.svg");
+    display: inline-block;
+    padding-left: 18px;
+}
+.p-wrapper p:last-child{
+    color: #FFFFFF;
+}
