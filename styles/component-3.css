@@ -1,13 +1,17 @@
 .component-3{
     position: relative;
 }
-/* მე არ ვიცი რაუნდა და ალბათ არც თვითონ იცის. */
+/* მე არ ვიცი რაუნდა და ალბათ არც თვითონ იცის. უი უი ვიცი*/
 .component-3 > p{
-    font-family: "Muli";
-    font-size: 16px;
+    font-family: "Muli-Regular";
+    font-size: 17px;
     color: #666666;
     line-height: 30px;
     margin-bottom: 48px;
+    letter-spacing: 0;
+}
+.component-3 >p:nth-last-child(1){
+    margin-bottom: 36px;
 }
 .component-3 h3{
     font-size: 24px;

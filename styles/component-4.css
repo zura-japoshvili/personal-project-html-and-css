@@ -1,0 +1,55 @@
+.component-4 h2{
+    font-family: "GlacialIndifference-Bold";
+    margin-bottom: 22px;
+}
+.component-4 > p{
+    font-family: "Muli-Regular";
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+.comp4-divider{
+    justify-content: space-between;
+}
+.comp4-divider > div:nth-child(2){
+    width: 300px;
+}
+.list-side ul {
+    list-style: circle;
+    margin-left: 18px;
+    color: #666666;
+    margin-bottom: 35px;
+}
+.list-side ul li{
+    font-size: 16px;
+    font-family: "GlacialIndifference-Regular";
+    padding-left: 5px;
+}
+.list-side ul li:not(:last-child){
+    margin-bottom: 21px;
+}
+.list-side p{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 12px;
+    background-color: #EE3364;
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    color: #ffffff;
+    padding-left: 61px;
+}
+.list-side p img{
+    margin-left: 15px;
+}
+.img-side p{
+    font-family: "Raleway-ExtraBold";
+    font-size: 9px;
+    color: #CCCCCC;
+    letter-spacing: 2.1px;
+    margin-bottom: 10px;
+}
+.side-img{
+    width: 300px;
+    height: 250px;
+    background: linear-gradient(212deg, #3456c2 0%, #0ba5c1 100%);
+}
