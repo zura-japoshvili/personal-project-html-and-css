@@ -1,0 +1,77 @@
+.component-3{
+    position: relative;
+}
+.component-3 > p{
+    font-family: "Muli";
+    font-size: 17px;
+    color: #666666;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+.component-3 h3{
+    font-size: 24px;
+    font-family: "GlacialIndifference-Italic";
+    color: #999999;
+    letter-spacing: 0.96px;
+    line-height: 40px;
+    align-items:center;
+    text-indent: 5px;
+    margin-bottom: 32px;
+}
+.component-3 h3 div{
+    width: 7px;
+    height: 103px;
+    background-color: #EE3364;
+    margin-right: 48px;
+}
+.component-3 .img{
+    height: 474px;
+    background-color: #9E9E9E;
+    margin-bottom: 29px;
+}
+.post-info{
+    font-family: "GlacialIndifference-Regular";
+    font-size: 16px;
+    color: #8799A3;
+    margin-bottom: 17px;
+}
+.post-author{
+    margin-right: 20px;
+}
+.author{
+    color: #EE3364;
+}
+.post-date{
+    margin-right: 30px;
+}
+.hearts{
+    font-family: "Cambay";
+}
+.hearts img{
+    margin-right: 10px;
+}
+.comments-count{
+    position: absolute;
+    right: 15px;
+    top: 524px;
+    width: 69px;
+    height: 38px;
+    background-color: #EE3364;
+}
+.comments-count p{
+    font-family: "BwModelica-Medium";
+    font-size: 13px;
+    color: #fff;
+    margin-top: 10px;
+}
+.comments-count img{
+    margin: 11px 6px 9px 15px;
+}
+.post-title{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 30px;
+    color: #2E2E2E;
+    line-height: 35px;
+    width: 568px;
+    margin-bottom: 30px;
+}

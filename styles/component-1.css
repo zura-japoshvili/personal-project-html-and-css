@@ -8,16 +8,15 @@
 .content{
     justify-content: space-between;
 }
-p{
+.contact-box p{
     font-family: "Muli";
     font-size: 15px;
     color: #0A0909;
-    /* padding-top: 2px; */
 }
-p:nth-child(1) img{
+.contact-box p:nth-child(1) img{
     margin-right: 20px;
 }
-p:nth-child(2) img{
+.contact-box p:nth-child(2) img{
     margin-right: 16px;
 }
 .content p:nth-child(1){

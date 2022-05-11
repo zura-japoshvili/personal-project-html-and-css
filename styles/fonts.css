@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Muli";
+    src: url(./fonts/Muli.ttf);
+}
+@font-face {
+    font-family: "Muli-Bold";
+    src: url(./fonts/Muli-Bold.ttf);
+}
+@font-face {
+    font-family: "GlacialIndifference-Bold";
+    src: url(./fonts/GlacialIndifference-Bold.otf);
+}
+@font-face {
+    font-family: "GlacialIndifference-Regular";
+    src: url(./fonts/GlacialIndifference-Regular.otf);
+}
+@font-face {
+    font-family: "Cambay";
+    src: url(./fonts/Cambay-Regular.ttf);
+}
+@font-face {
+    font-family: "BwModelica-Medium";
+    src: url(./fonts/BwModelica-Medium.otf);
+}
+@font-face {
+    font-family: "GlacialIndifference-Italic";
+    src: url(./fonts/GlacialIndifference-Italic.otf);
+}
