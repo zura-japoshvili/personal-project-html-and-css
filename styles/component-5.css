@@ -1,0 +1,59 @@
+.component-5 {
+    margin-bottom: 35px;
+}
+.component-5 h2{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 24px;
+    letter-spacing: 0;
+    margin-bottom: 30px;
+}
+.component-5 .img {
+    width: 770px;
+    height: 450px;
+    background-color: #4C4C4C;
+    margin-bottom: 22px;
+}
+.component-5 p{
+    font-size: 17px;
+    font-family: "Muli-Regular";
+    line-height: 30px;
+    color: #666666;
+    margin-bottom: 16px;
+}
+.social-media{
+    justify-content: space-between;
+}
+.social-media div{
+    width: 184px;
+    height: 40px;
+    color: #FFFFFF;
+    font-family: "GlacialIndifference-Bold";
+    font-size: 14px;
+}
+.social-media div i{
+    font-size: 16px;
+}
+.social-media div:nth-child(1){
+    background-color: #2F5EBE;
+}
+.social-media div:nth-child(1) i{
+    margin: 0 24px 0 24px;
+}
+.social-media div:nth-child(2){
+    background-color: #00D8FF;
+}
+.social-media div:nth-child(2) i{
+    margin: 0 24px 0 30px;
+}
+.social-media div:nth-child(3){
+    background-color: #4A4D54;
+}
+.social-media div:nth-child(3) i{
+    margin: 0 20px 0 25px;
+}
+.social-media div:nth-child(4){
+    background-color: #CB2027;
+}
+.social-media div:nth-child(4) i{
+    margin: 0 24px 0 40px;
+}

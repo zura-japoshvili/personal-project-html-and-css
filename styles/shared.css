@@ -5,20 +5,27 @@
 }
 body{
     display: flex;
-    justify-content: center;
     flex-direction: column;
 }
 .main-aside-wrapper{
 
 }
 main{
+    width: 798px;
+    margin-right: 25px;
+}
+.main-content{
     width: 770px;
-    height: 1000px;
-    margin-right: 43px;
+}
+.m-left5{
+    margin-left: 5px;
 }
 aside{
     width: 360px;
     height: 400px;
+}
+.component-6{
+    width: 861px;
 }
 .content{
     width: 1161px;

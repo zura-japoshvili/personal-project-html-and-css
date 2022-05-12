@@ -1,0 +1,48 @@
+.component-6 .tags{
+    justify-content: space-between;
+    width: 770px;
+    margin-bottom: 40px;
+}
+.component-6 hr{
+    width: 770px;
+    height: 5px;
+    background-color: #ECECEC;
+    border: none;
+    margin-bottom: 30px;
+}
+.tags-p span{
+    color: #EE3364;
+    font-size: 14px;
+    font-family: "Muli-Regular";
+}
+.tags .tag-icon{
+    font-size: 18px;
+    color: #2F2933;
+    margin-right: 12px;
+}
+.tags p:nth-child(2){
+    color: #999999;
+    font-family: "GlacialIndifference-Regular";
+    font-size: 14px;
+}
+.about-author .img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: #ECECEC;
+    margin-top: 10px;
+    margin-right: 29px;
+}
+.about-cont h3{
+    font-size: 24px;
+    font-family: "GlacialIndifference-Bold";
+    color: #EE3364;
+    margin: 5px 0 12px 0;
+}
+.about-cont p{
+    font-family: "Muli-Regular";
+    font-size: 14px;
+    color: #666666;
+    line-height: 30px;
+    width: 637px;
+}
