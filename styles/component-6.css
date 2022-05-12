@@ -1,3 +1,6 @@
+.component-6{
+    margin-bottom: 40px;
+}
 .component-6 .tags{
     justify-content: space-between;
     width: 770px;
@@ -18,12 +21,14 @@
 .tags .tag-icon{
     font-size: 18px;
     color: #2F2933;
-    margin-right: 12px;
+    margin-right: 14px;
 }
 .tags p:nth-child(2){
     color: #999999;
     font-family: "GlacialIndifference-Regular";
     font-size: 14px;
+    margin-top: 2px;
+    width: 69px;
 }
 .about-author .img{
     width: 130px;
@@ -31,7 +36,7 @@
     border-radius: 50%;
     background-color: #ECECEC;
     margin-top: 10px;
-    margin-right: 29px;
+    margin-right: 30px;
 }
 .about-cont h3{
     font-size: 24px;

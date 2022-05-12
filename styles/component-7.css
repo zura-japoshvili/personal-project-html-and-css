@@ -1,0 +1,63 @@
+.component-7{
+    border-top: 1px solid #707070;
+    padding-top: 30px;
+}
+.component-7 h4{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 21px;
+    margin-bottom: 33px;
+}
+.box-cont{
+    flex-wrap: wrap;
+}
+.box-cont .box{
+    width: 375px;
+    border-bottom: 1px solid #707070;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+.box-cont > div:nth-child(odd){
+    margin-right: 45px;
+}
+.box-cont .img{
+    background-color: #CFDBDF;
+    width: 100px;
+    height: 80px;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+.box-cont .clock-icon{
+    font-size: 13px;
+    color: #EE3364;
+    margin-right: 8px;
+}
+.box-cont h5{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 19px;
+    color: #1D1D1D;
+    line-height: 25px;
+}
+.date-cont div p:nth-child(1){
+    font-family: "Muli-Bold";
+    font-size: 13px;
+    color: #999999;
+    margin-bottom: 13px;
+}
+.date-cont div p:nth-child(2){
+    font-family: "OpenSans-Regular";
+    font-size: 13px;
+    color: #999999;
+}
+.ad-title{
+    margin-top: 25px;
+    font-family: "Raleway-ExtraBold";
+    font-size: 10px;
+    color: #CCCCCC;
+    letter-spacing: 1.5px;
+    margin-bottom: 8px;
+}
+.ad-img{
+    width: 800px;
+    height: 120px;
+    background: linear-gradient(204deg, #0ba5c1  0%, #3456c2 100%);
+}
