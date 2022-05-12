@@ -1,0 +1,85 @@
+.component-8 div:nth-child(1){
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+.component-8 div h4{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 20px;
+    color: #222222;
+    letter-spacing: 2px;
+}
+.component-8 div:nth-child(1) p{
+    font-size: 13px;
+    font-family: "Muli-Regular";
+    color: #999999;
+    margin-top: 5px;
+    letter-spacing: 0.15px;
+}
+.comment{
+    border: 1px solid #ECECEC;
+    border-radius: 2px;
+    padding: 26px 30px 27px 31px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.comment .img{
+    background-color: #D2D2D2;
+    width: 79px;
+    height: 79px;
+    border-radius: 3px;
+    margin-right: 30px;
+}
+.comment-content h5{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 21px;
+    color: #2F2933;
+    margin-bottom: 15px;
+}
+.comment-content h5 span:nth-child(1){
+    margin: 0 15px 0 15px;
+}
+.comment-content h5 span{
+    font-family: "OpenSans-Regular";
+    color: #CCCCCC;
+    font-size: 14px;
+}
+.comment-content > p{
+    font-family: "Muli-Regular";
+    font-size: 16px;
+    color: #666666;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.comment .arrow-down{
+    position: absolute;
+    font-size: 16px;
+    top: 23px;
+    right: 28px;
+    color: #CCCCCC;
+}
+.comment .three-dots{
+    position: absolute; 
+    font-size: 30px;
+    color: #CCCCCC;
+    right: 25px;
+    bottom: 10px;
+}
+.comment .three-dots:hover{
+    color: #69D2E7;
+
+}
+.comment-content .icon-box p{
+    font-family: "OpenSans-Regular";
+    color: #CCCCCC;
+    font-size: 14px;
+}
+.comment-content .icon-box p i{
+    margin-right: 19px;
+    font-size: 16px;
+}
+.comment-content .icon-box p:not(:last-child){
+    margin-right: 20px;
+}
+.icon-box .star{
+    color: #69D2E7;
+}
