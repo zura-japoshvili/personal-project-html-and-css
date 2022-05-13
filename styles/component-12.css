@@ -1,0 +1,37 @@
+.component-12{
+    border: 1px solid #F1F1F1;
+    padding: 40px 40px 30px 38px;
+    box-shadow: 0 12px 8px #0000000a;
+}
+.component-12 h4{
+    font-size: 24px;
+    font-family: "GlacialIndifference-Bold";
+    padding-bottom: 22px;
+    border-bottom: 2px solid #F3F4F6;
+    margin-bottom: 38px;
+}
+.latest-cont > div{
+    margin-bottom: 28px;
+}
+.latest-cont img{
+    margin-right: 23px;
+    height: 80px;
+}
+.latest-cont h5{
+    font-family: "Muli-Bold";
+    color: #BBC7CD;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+}
+.latest-cont h6{
+    color: #252525;
+    font-family: "GlacialIndifference-Bold";
+    font-size: 19px;
+    margin-bottom: 8px;
+}
+.latest-cont p{
+    color: #0081FF;
+    font-size: 14px;
+    font-family: "Cambay";
+}

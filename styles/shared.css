@@ -12,17 +12,20 @@ body{
 }
 main{
     width: 802px;
-    margin-right: 25px;
+    margin-right: 10px;
 }
 .main-content{
     width: 770px;
 }
+
+/* ეს დავივიწყოთ :'( 
 .m-left5{
     margin-left: 5px;
-}
+} */
 aside{
     width: 360px;
     height: 400px;
+    margin-right: 5px;
 }
 .component-6{
     width: 861px;
