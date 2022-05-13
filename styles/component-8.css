@@ -20,6 +20,9 @@
     border-radius: 2px;
     padding: 26px 30px 27px 31px;
     position: relative;
+    width: 802px;
+}
+.component-8 .comment:nth-of-type(2){
     margin-bottom: 20px;
 }
 .comment .img{
@@ -54,15 +57,18 @@
     position: absolute;
     font-size: 16px;
     top: 23px;
-    right: 28px;
+    right: 32px;
     color: #CCCCCC;
 }
 .comment .three-dots{
     position: absolute; 
     font-size: 30px;
     color: #CCCCCC;
-    right: 25px;
+    right: 30px;
     bottom: 10px;
+}
+.comment .three-dots:hover{
+    color: #69D2E7;
 }
 .comment .three-dots:hover{
     color: #69D2E7;
@@ -82,4 +88,53 @@
 }
 .icon-box .star{
     color: #69D2E7;
+}
+.comment-2{
+    padding: 26px 10px 25px 31px;
+}
+.comment-2 .img{
+    width: 76px;
+    height: 73px;
+    margin-right: 35px;
+}
+.comment-2 .comment-content h5{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.sub-comment{
+    background-color: #69d2e710;
+    padding: 26px 30px 15px 87px;
+}
+.sub-comment .img{
+    margin-right: 29.5px;
+    width: 75px;
+    height: 73px;
+}
+.sub-comment .comment-content h5{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.sub-comment .comment-content p{
+    margin-bottom: 20px;
+}
+.comment-3{
+    padding: 27px 30px 25px 32px;
+}
+.comment-3 .img, .comment-4 .img{
+    width: 60px;
+    height: 60px;
+}
+.comment-3 .comment-content h5{
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+.comment-4{
+    padding: 27px 30px 10px 32px;
+}
+.comment-4 .comment-content h5{
+    margin-top: 18px;
+    margin-bottom: 5px;
+}
+.comment-4 .comment-content p{
+    margin-bottom: 18px;
 }
