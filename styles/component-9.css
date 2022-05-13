@@ -1,0 +1,65 @@
+.component-9 h3{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 17px;
+    letter-spacing: 1.7px;
+    color: #1B1B1B;
+    margin-bottom: 38px;
+}
+.component-9 form{
+    width: 801px;
+}
+form div:nth-child(1){
+    justify-content: space-between;
+}
+form input , form textarea{
+    margin-bottom: 10px;
+    border: 1px solid #ECECEC;
+    border-radius: 3px;
+    height: 50px;
+    width: 100%;
+    padding-left: 28px;
+    color: #666666;
+    font-family: "OpenSans-Regular";    
+    font-size: 14px;
+}
+form div:nth-child(1) input{
+    width: 395px;
+}
+form textarea{
+    height: 213px;
+    padding: 13px 0 0 28px;
+    resize: none;
+    margin-bottom: 5px;
+}
+form .submit-cont{
+    justify-content: space-between;
+}
+.submit{
+    border: none;
+    background-color: #EE3364;
+    width: 230px;
+    height: 50px;
+    font-size: 14px;
+    font-family: "GlacialIndifference-Bold";
+    letter-spacing: 0.14;
+    color: #ffffff;
+    justify-content: flex-end;
+    align-items: center;
+}
+.submit img{
+    margin: 0 55px 0 21px;
+}
+.subscribe{
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-right: 18px;
+    background-color: #1A2640;
+    border: 1px solid #ECECEC;
+    border-radius: 2px;
+}
+.submit-cont label{
+    font-family: "Muli-Regular";
+    font-size: 14px;
+    color: #666666;
+}

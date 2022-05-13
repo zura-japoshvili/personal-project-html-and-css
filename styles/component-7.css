@@ -43,11 +43,18 @@
     font-size: 13px;
     color: #999999;
     margin-bottom: 13px;
+    margin-right: 20px;
 }
 .date-cont div p:nth-child(2){
     font-family: "OpenSans-Regular";
     font-size: 13px;
     color: #999999;
+}
+.date-cont div p:nth-child(2) i{
+    margin-right: 10px;
+}
+.last-eye{
+    margin-right: 3px !important;
 }
 .ad-title{
     margin-top: 25px;
