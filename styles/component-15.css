@@ -1,0 +1,39 @@
+.component-15{
+    border: 1px solid #F1F1F1;
+    padding: 40px 50px 40px 40px;
+    box-shadow: 0 12px 8px #0000000a;
+    margin-left: 2px;
+}
+.component-15 div img{
+    box-shadow: 0 10px 30px #25252533;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-bottom: 22px;
+}
+.component-15 div div p{
+    color: #BBC7CD;
+    font-family: "Cambay";
+    font-size: 16px;
+    margin-top: 5px;
+    line-height: 20px;
+}
+.component-15 div div h6{
+    color: #EE3364;
+    font-family: "GlacialIndifference-Bold";
+    font-size: 18px;
+}
+.component-15 > p{
+    font-family: "Muli-Regular";
+    font-size: 16px;
+    color: #636363;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+.component-15 i{
+    font-size: 17px;
+    color: #BBC7CD;
+    margin-right: 15px;
+}
+.component-15 i:hover{
+    color: #8799A3;
+}

@@ -1,0 +1,40 @@
+.component-14{
+    border: 1px solid #F1F1F1;
+    padding: 45px 38px 40px 35px;
+    box-shadow: 0 12px 8px #0000000a;
+    margin-bottom: 50px;
+}
+.component-14 img{
+    margin-bottom: 5px;
+}
+.c14-p{
+    font-size: 15px;
+    font-family: "Muli-Regular";
+    color: #636363;
+    line-height: 26px;
+    margin-left: 2px;
+    margin-bottom: 22px;
+}
+.c14-info{
+    font-family: "GlacialIndifference-Bold";
+    font-size: 14px;
+    color: #2D2D2D;
+    margin-left: 7px;
+}
+.c14-info i{
+    margin-right: 24px;
+    margin-bottom: 17px;
+}
+.c14-phone{
+    margin-bottom: 12px !important;
+}
+.component-14 button{
+    background-color: #EE3364;
+    width: 140px;
+    height: 40px;
+    color: #F1F1F1;
+    font-family: "Montserrat-Bold";
+    font-size: 12px;
+    border: none;
+    margin: 12px 0 0 3px;
+}

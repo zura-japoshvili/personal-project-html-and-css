@@ -1,7 +1,8 @@
 .component-12{
     border: 1px solid #F1F1F1;
-    padding: 40px 40px 30px 38px;
+    padding: 40px 38px 35px 38px;
     box-shadow: 0 12px 8px #0000000a;
+    margin-bottom: 50px;
 }
 .component-12 h4{
     font-size: 24px;
@@ -34,4 +35,18 @@
     color: #0081FF;
     font-size: 14px;
     font-family: "Cambay";
+}
+.latest-cont > div:nth-child(3) h5, .latest-cont > div:nth-child(2) h5{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.component-12 button{
+    background-color: #EE3364;
+    border: none;
+    width: 130px;
+    height: 40px;
+    color: #F3F4F6;
+    font-family: "GlacialIndifference-Bold";
+    font-size: 12px;
+    margin-top: 10px;
 }
