@@ -6,7 +6,7 @@
     font-size: 17px;
     letter-spacing: 1.7px;
     color: #1B1B1B;
-    margin-bottom: 38px;
+    margin-bottom: 35px;
 }
 .component-9 form{
     width: 801px;
@@ -46,11 +46,8 @@ form .submit-cont{
     font-family: "GlacialIndifference-Bold";
     letter-spacing: 0.14;
     color: #ffffff;
-    justify-content: flex-end;
+    padding-left: 60px;
     align-items: center;
-}
-.submit img{
-    margin: 0 55px 0 21px;
 }
 .subscribe{
     width: 24px;
