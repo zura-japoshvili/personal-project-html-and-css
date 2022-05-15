@@ -21,6 +21,11 @@
     color: #2D2D2D;
     margin-left: 7px;
 }
+.c14-info span{
+    color: #929292;
+    margin-left: 5px;
+    font-family: "GlacialIndifference-Regular";
+}
 .c14-info-f i{
     margin-bottom: 15px !important;
     margin-right: 24px !important;

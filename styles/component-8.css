@@ -1,5 +1,5 @@
 .component-8{
-    margin-bottom: 178px;
+    margin-bottom: 175px;
 }
 .component-8 div:nth-child(1){
     justify-content: space-between;
@@ -54,7 +54,7 @@
     font-size: 16px;
     color: #666666;
     line-height: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
 }
 .comment .arrow-down{
     position: absolute;
@@ -106,7 +106,7 @@
 }
 .sub-comment{
     background-color: #69d2e710;
-    padding: 24px 30px 15px 87px;
+    padding: 26px 30px 13px 87px;
 }
 .sub-comment .img{
     margin-right: 29.5px;

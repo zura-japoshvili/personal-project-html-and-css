@@ -32,7 +32,7 @@ form textarea{
     height: 213px;
     padding: 13px 0 0 28px;
     resize: none;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 form .submit-cont{
     justify-content: space-between;
