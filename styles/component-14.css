@@ -21,8 +21,12 @@
     color: #2D2D2D;
     margin-left: 7px;
 }
+.c14-info-f i{
+    margin-bottom: 15px !important;
+    margin-right: 24px !important;
+}
 .c14-info i{
-    margin-right: 24px;
+    margin-right: 20px;
     margin-bottom: 17px;
 }
 .c14-phone{
