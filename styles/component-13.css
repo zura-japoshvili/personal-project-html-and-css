@@ -2,7 +2,7 @@
     border: 1px solid #F1F1F1;
     padding: 40px 38px 40px 30px;
     box-shadow: 0 12px 8px #0000000a;
-    margin-bottom: 55px;
+    margin-bottom: 65px;
 }
 .component-13 h4{
     font-size: 24px;
@@ -23,7 +23,7 @@
     font-size: 13px;
     color: #8799A3;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 .component-13 div p:hover{
     background-color: #EE3364;

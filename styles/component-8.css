@@ -21,7 +21,7 @@
 .comment{
     border: 1px solid #ECECEC;
     border-radius: 2px;
-    padding: 26px 30px 27px 31px;
+    padding: 28px 30px 27px 31px;
     position: relative;
     width: 802px;
 }
@@ -121,7 +121,7 @@
     margin-bottom: 20px;
 }
 .comment-3{
-    padding: 27px 30px 25px 32px;
+    padding: 25px 30px 25px 32px;
 }
 .comment-3 .img, .comment-4 .img{
     width: 60px;
@@ -132,7 +132,7 @@
     margin-bottom: 5px;
 }
 .comment-4{
-    padding: 27px 30px 10px 32px;
+    padding: 22px 30px 10px 32px;
 }
 .comment-4 .comment-content h5{
     margin-top: 18px;

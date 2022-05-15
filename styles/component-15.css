@@ -1,6 +1,6 @@
 .component-15{
     border: 1px solid #F1F1F1;
-    padding: 40px 50px 40px 40px;
+    padding: 35px 50px 40px 40px;
     box-shadow: 0 12px 8px #0000000a;
     margin-left: 2px;
 }
@@ -9,13 +9,15 @@
     border-radius: 50%;
     margin-right: 20px;
     margin-bottom: 22px;
+    margin-top: 5px;
 }
 .component-15 div div p{
     color: #BBC7CD;
     font-family: "Cambay";
     font-size: 16px;
-    margin-top: 5px;
-    line-height: 20px;
+    line-height: 0;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
 .component-15 div div h6{
     color: #EE3364;
